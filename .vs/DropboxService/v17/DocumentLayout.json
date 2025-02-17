@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|c:\\users\\rog\\documents\\asp_net\\dropboxservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|c:\\users\\rog\\documents\\asp_net\\dropboxservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|c:\\users\\rog\\documents\\asp_net\\dropboxservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|c:\\users\\rog\\documents\\asp_net\\dropboxservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|c:\\users\\rog\\documents\\asp_net\\dropboxservice\\controllers\\dropboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|solutionrelative:controllers\\dropboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|c:\\users\\rog\\documents\\asp_net\\dropboxservice\\noted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|solutionrelative:noted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|c:\\users\\rog\\documents\\asp_net\\dropboxservice\\services\\dropboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|solutionrelative:services\\dropboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|c:\\users\\rog\\documents\\asp_net\\dropboxservice\\dropboxservice.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|solutionrelative:dropboxservice.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|c:\\users\\rog\\documents\\asp_net\\dropboxservice\\dropboxservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7A4F7D70-0A19-4D4C-BB54-0481071AD5B2}|DropboxService.csproj|solutionrelative:dropboxservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d020a93a-e0b7-4875-8a69-73703b37d3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DropboxController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Controllers\\DropboxController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DropboxController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Controllers\\DropboxController.cs",
+              "RelativeToolTip": "Controllers\\DropboxController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwEoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:29:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:32:45.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DropboxService.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Services\\DropboxService.cs",
+              "RelativeDocumentMoniker": "Services\\DropboxService.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Services\\DropboxService.cs",
+              "RelativeToolTip": "Services\\DropboxService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:31:26.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T08:28:27.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-15T08:53:16.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T01:47:13.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Noted.txt",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Noted.txt",
+              "RelativeDocumentMoniker": "Noted.txt",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\Noted.txt",
+              "RelativeToolTip": "Noted.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-17T01:21:53.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DropboxService.http",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\DropboxService.http",
+              "RelativeDocumentMoniker": "DropboxService.http",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\DropboxService.http",
+              "RelativeToolTip": "DropboxService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-15T08:55:05.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DropboxService.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\DropboxService.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "DropboxService.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\DropboxService\\DropboxService.csproj.Backup.tmp",
+              "RelativeToolTip": "DropboxService.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-15T08:55:11.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

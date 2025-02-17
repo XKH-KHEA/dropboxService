@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "v1HNqey8kUuh+9Ys1N0EYnwxpQw+2DejqQMuIXYozHQ=",
+  "Source": "DropboxService",
+  "BasePath": "_content/DropboxService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+﻿Upload Image (POST /api/dropbox/upload)
+Uploads an image file to Dropbox under /images/ folder.
+List Images (GET /api/dropbox/list)
+Returns a list of all image filenames in the Dropbox folder.
+Download Image (GET /api/dropbox/download/{fileName})
+Downloads an image from Dropbox by its filename.
